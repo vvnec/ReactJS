@@ -40,19 +40,3 @@ export default function Todo(){
         
     )
 }
-
-
-
-//     return(
-//         <ul>
-//             {tasks.map(task =>(
-//                 <li key={task.id}>
-//                 {task.text}
-//                 <button onClick={() => dispatch(removeTodo(task.id))}>
-//                      удалить
-//                 </button>
-//                 </li>
-//             ))}
-//         </ul>
-//     )
-// }
